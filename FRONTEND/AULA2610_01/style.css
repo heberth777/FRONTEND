@@ -1,0 +1,44 @@
+ 
+*{
+     box-sizing: border-box;
+}
+body{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: darkslategrey;
+}
+header {
+    background-color:dimgray;
+    text-align: center;
+    border-radius: 10px;
+    color:whitesmoke;
+    margin-bottom: 5px;
+    padding: 1px;
+    margin-top: 5px;
+   
+}
+main{
+    padding: 5pxpx;
+    background-color: dimgray;
+    border-radius: 10px;
+    color:whitesmoke;
+
+}
+
+form {
+    margin: 5px;
+}
+
+button{
+    border-radius: 10px;
+}
+input{
+    border-radius: 10px ;
+}
+select{
+    border-radius: 10px;
+}
+
+ 
+
+
+
